@@ -43,7 +43,7 @@ const createUser = (req, res) => {
               res.send('yeey')
 
              }else{
-              res.send('Successfully registered')
+              res.send('ddd')
              }
 
         })

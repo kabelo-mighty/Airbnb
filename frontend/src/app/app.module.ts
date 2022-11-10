@@ -15,7 +15,10 @@ import { BookingsComponent } from './bookings/bookings.component';
 import { NavbarComponent } from './user/navbar/navbar.component';
 import { FooterComponent } from './user/footer/footer.component';
 import { BookingComponent } from './user/booking/booking.component';
+import { RouterModule } from '@angular/router';
 
+
+RouterModule
 @NgModule({
   declarations: [
     AppComponent,
